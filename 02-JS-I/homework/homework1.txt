@@ -1,0 +1,25 @@
+VARIABLE
+
+Es una especie de cajita donde puedes guardar muchas cosas como letras, números y
+muchas cosas más para usarlas despúes y hacer otras cosas que se necesiten.
+
+STRING
+
+Es el nombre que se le da en programación a las letras que forman una oración como 
+nuestro nombre o las vocales por ejemplo.
+
+FUNCIONES (argumentos, return)
+
+Una función es una serie de pasos para resolver algo en específico, recibe
+algunos datos para funcionar que se llaman argumentos y después de hacer todo
+el procedimiento regresa un resultado con un return.
+
+DECLARACIONES IF
+
+Un if es una manera de preguntar si algo es cierto o falso y que dependiendo
+la respuesta va hacer ciertas cosas o no va hacer nada.
+
+BOLEANOS
+
+Es un valor que lógico que puede ser falso o verdadero, se utiliza para validar
+expresiones en programación.
