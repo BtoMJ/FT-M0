@@ -1,0 +1,15 @@
+CICLO FOR
+
+Son una serie de pasos que repiten un cantidad determinada de veces para realizar una tarea en concreto
+
+&&
+
+Se utilizan para validar dos condiciones y tienen que ser verdad ambas para realizar un tarea específica
+
+||
+
+Se utilizan para validar dos condiciones y pueden tener valor distinto para poder realizar la tarea asignada
+
+!
+
+Se utiliza para negar una expresión
