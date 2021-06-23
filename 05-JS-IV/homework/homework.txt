@@ -1,0 +1,18 @@
+OBJETOS
+Es una conjunto de datos que describen algo, lo hacen
+
+PROPIEDADES
+Características que describen un objeto
+
+MÉTODOS
+Procedimientos especiales dentro de los OBJETOS
+
+
+BUCLE FOR ... IN
+
+es una forma fácil de comprobar las propiedades de un objeto (mediante la salida a la consola o de otro modo).
+
+
+NOTACIÓN de PUNTOS VS NOTACIÓN DE CORCHETES
+
+Notación de puntos lo usamos cuando conocemos las propiedas del objeto, si no se usan corchetes
