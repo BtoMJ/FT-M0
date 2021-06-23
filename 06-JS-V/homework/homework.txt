@@ -1,0 +1,5 @@
+PROTOTYPE
+Es una serie de propiedades nativas que tiene calquier objeto (además de los establecidos por nosotros) y que heredan de Object
+
+CONSTRUCTOR
+Son una serie de instrucciones que nos permiten crear una base de propiedades de un objeto para replicarlo cuantas veces sea necesario sin tener que volver a reescribir la estructura cada que se utilice
