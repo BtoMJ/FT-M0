@@ -1,0 +1,3 @@
+FUNCIONES CALLBACK
+
+Es una función que en sus argumentos llama por lo menos a una más función
